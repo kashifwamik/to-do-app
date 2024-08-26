@@ -1,14 +1,12 @@
-
-.welcome{
+.welcome {
   font-style: italic;
-  
-  color:brown;
-  font-size:2.5rem;
+  color: brown;
+  font-size: 2.5rem;
   margin-top: 60px;
   position: absolute;
-  right:40%;
+  right: 40%;
 }
 
-.ks-row{
-  margin:10px;
+.ks-row {
+  margin: 10px;
 }
